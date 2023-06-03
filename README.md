@@ -7,3 +7,6 @@ This is my curriculum to learn about artificial intelligence, its potential and 
 
 ## Deep learning
 - [ ] [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+
+## Reading list
+- [ ] [Styledrop](styledrop.github.io)
